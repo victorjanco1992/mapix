@@ -27,9 +27,11 @@
 ```bash
 git clone https://github.com/tu-usuario/mapix.git
 cd mapix
-### 3. Configurar base de datos
+
+### 3. Configurar base de datos 
  -   Crear una base de datos (por ejemplo: ruta_libre)
  -   Importar el archivo mapa.sql en phpMyAdmin
+
 ### 4. Levantar el proyecto
  -   Colocar la carpeta en htdocs/ (XAMPP) o similar
  -   Ingresar desde el navegador a:
