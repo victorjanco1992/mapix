@@ -24,9 +24,9 @@
 - Git (opcional)
 
 ### 2. Clonar el repositorio
-```bash
-git clone https://github.com/tu-usuario/mapix.git
-cd mapix
+
+- git clone https://github.com/tu-usuario/mapix.git
+- cd mapix
 
 ### 3. Configurar base de datos 
  -   Crear una base de datos (por ejemplo: ruta_libre)
@@ -36,3 +36,13 @@ cd mapix
  -   Colocar la carpeta en htdocs/ (XAMPP) o similar
  -   Ingresar desde el navegador a:
 http://localhost/mapix
+
+### 5. Funcionalidades principales
+ -  Registro e inicio de sesión de usuarios
+ -  Visualización de rutas en un mapa interactivo (Leaflet)
+ -   Registro de nuevas rutas con ubicación
+ -  Guardado de rutas en base de datos
+ -   Diseño responsive para dispositivos móviles
+### 6.  Estado del proyecto
+
+🚧 En desarrollo. Actualmente disponible solo en entorno local (localhost). Próximamente será publicado como aplicación web accesible públicamente.
